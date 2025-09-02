@@ -11,21 +11,21 @@ const products = [
     name: "7 Day Subscription",
     price: "350₽",
     period: "/week",
-    link: "https://yoomoney.ru/transfer/quickpay?requestId=353539383536363030375f35613832386238666434336336343732326562663565616561333437656231383662323461336665", // Example link
+    link: "https://yoomoney.ru/fundraise/1BVEO1OV380.250806",
     buttonText: "Buy 7 Day"
   },
   {
     name: "1 Month Subscription",
     price: "800₽",
     period: "/month",
-    link: "https://yoomoney.ru/transfer/quickpay?requestId=353539383536363339325f31353433383239376439636462366637613561383938343831626338393237306266656633323164", // Example link
+    link: "https://yoomoney.ru/fundraise/1BVEON16U1N.250806",
     buttonText: "Buy 1 Month"
   },
   {
     name: "3 Month Subscription",
     price: "2100₽",
     period: "/3 months",
-    link: "https://yoomoney.ru/transfer/quickpay?requestId=353539383631303733345f39323239396664333639626234623366363039313435396632316561323132626437343337633665", // Example link
+    link: "https://yoomoney.ru/fundraise/1BVH4VT2R8C.250806",
     buttonText: "Buy 3 Months"
   }
 ];
